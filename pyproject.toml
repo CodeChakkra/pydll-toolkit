@@ -1,0 +1,7 @@
+[project]
+name = "pydll-toolkit"
+version = "0.1.0"
+description = "python dll injection toolkit"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["pywin32>=310"]
