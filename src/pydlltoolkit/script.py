@@ -4,6 +4,8 @@ import win32event
 import win32process
 import os
 
+__all__ = ["DllInjector"]
+
 
 class DllInjector:
 
