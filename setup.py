@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pydlltoolkit",
-    version="0.1.0-beta",
+    version="0.1.1",
     description="Python DLL Injection Toolkit",
     author="CodeChakkra",
     author_email="ttenwi888@gmail.com",
